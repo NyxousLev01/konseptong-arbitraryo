@@ -1,6 +1,6 @@
 # Pambansang Arbitraryo ng Makabagong Wikang Filipino
 
-# Konsepto ni Curt Jared Orbita, Binuo ng LLM ng ChatGPT
+# Konsepto ni Nyxous, Binuo ng LLM ng ChatGPT
 
 > **Paalala:** Ang dokumentong ito ay isang malalim at komprehensibong panukala na naglalaman ng mahigit **30,000 na karakter**. Nilalayon nitong magbigay ng masusing balangkas at pag-aaral para sa pormal na pagbuo ng bagong bokabularyo sa wikang Filipino.
 
